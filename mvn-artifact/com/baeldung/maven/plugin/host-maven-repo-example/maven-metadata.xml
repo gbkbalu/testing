@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.baeldung.maven.plugin</groupId>
+  <artifactId>host-maven-repo-example</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20231206165533</lastUpdated>
+  </versioning>
+</metadata>

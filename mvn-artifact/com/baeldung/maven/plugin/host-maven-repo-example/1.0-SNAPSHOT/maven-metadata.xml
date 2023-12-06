@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.baeldung.maven.plugin</groupId>
+  <artifactId>host-maven-repo-example</artifactId>
+  <versioning>
+    <lastUpdated>20231206165533</lastUpdated>
+    <snapshot>
+      <timestamp>20231206.165533</timestamp>
+      <buildNumber>7</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0-20231206.165533-7</value>
+        <updated>20231206165533</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0-20231206.165533-7</value>
+        <updated>20231206165533</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>1.0-SNAPSHOT</version>
+</metadata>
