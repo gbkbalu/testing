@@ -3,21 +3,21 @@
   <groupId>com.baeldung.maven.plugin</groupId>
   <artifactId>host-maven-repo-example</artifactId>
   <versioning>
-    <lastUpdated>20231206165533</lastUpdated>
+    <lastUpdated>20231207062349</lastUpdated>
     <snapshot>
-      <timestamp>20231206.165533</timestamp>
-      <buildNumber>7</buildNumber>
+      <timestamp>20231207.062349</timestamp>
+      <buildNumber>8</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.0-20231206.165533-7</value>
-        <updated>20231206165533</updated>
+        <value>1.0-20231207.062349-8</value>
+        <updated>20231207062349</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0-20231206.165533-7</value>
-        <updated>20231206165533</updated>
+        <value>1.0-20231207.062349-8</value>
+        <updated>20231207062349</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
